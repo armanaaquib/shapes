@@ -1,0 +1,6 @@
+node printPattern.js -s triangle -p filled
+*
+**
+***
+****
+*****

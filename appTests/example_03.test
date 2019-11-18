@@ -1,0 +1,4 @@
+node ./printPattern.js -s rectangle -p hollow -d "3,9"
+*********
+*       *
+*********

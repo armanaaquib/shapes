@@ -1,0 +1,7 @@
+node printPattern.js -d 6,4 -p alternating
+----
+++++
+----
+++++
+----
+++++

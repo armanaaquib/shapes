@@ -1,0 +1,4 @@
+node ./printPattern.js -d "3,9" -p alternating -s rectangle
+---------
++++++++++
+---------

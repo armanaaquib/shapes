@@ -1,0 +1,7 @@
+node ./printPattern.js -p hollow -d 6  -s triangle
+*
+**
+* *
+*  *
+*   *
+******

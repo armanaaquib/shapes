@@ -1,0 +1,4 @@
+node printPattern.js -s rectangle -d 3,5
+*****
+*****
+*****

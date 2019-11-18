@@ -1,0 +1,4 @@
+node printPattern.js -s triangle -p hollow -d 3
+*
+**
+***
