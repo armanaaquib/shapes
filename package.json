@@ -1,0 +1,19 @@
+{
+    "name": "printpattern",
+    "version": "1.4.0",
+    "description": "give shape according to shape, pattern and dimension inputs",
+    "main": "printPattern.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "nyc mocha",
+        "start": "node printPattern.js ",
+        "mochaVersion": "mohca --version"
+    },
+    "devDependencies": {
+        "mocha": "6.2.0"
+    },
+    "author": "Aaquib Equbal",
+    "license": "ISC"
+}
