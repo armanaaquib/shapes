@@ -1,6 +1,0 @@
-node printPattern.js -p alternating -p hollow
-*****
-*   *
-*   *
-*   *
-*****

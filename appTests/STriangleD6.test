@@ -1,7 +1,0 @@
-node printPattern.js -s triangle -d 6
-*
-**
-***
-****
-*****
-******

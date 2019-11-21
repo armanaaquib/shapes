@@ -1,4 +1,0 @@
-node ./printPattern.js -s rectangle -p filled -d "3,9"
-*********
-*********
-*********

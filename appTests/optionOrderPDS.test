@@ -1,4 +1,0 @@
-node printPattern.js -p alternating -d 3,4 -s rectangle
-----
-++++
-----
