@@ -12,7 +12,8 @@
         "mochaVersion": "mohca --version"
     },
     "devDependencies": {
-        "mocha": "6.2.0"
+        "mocha": "6.2.0",
+        "nyc": "14.1.1"
     },
     "author": "Aaquib Equbal",
     "license": "ISC"
